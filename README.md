@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... 
 - 🌱 I’m currently learning ... Full stack development
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... mail id:- swapnil.kulkarni0000@gmail.com
+- 📫 How to reach me ... Mail_id:- swapnil.kulkarni0000@gmail.com
 
 <!---
 SWAPNILKULKARNI0/SWAPNILKULKARNI0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
